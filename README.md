@@ -1,4 +1,4 @@
-¡Hola, soy Graciana March! 👋
+# ¡Hola, soy Graciana March! 👋
 
 ## Sobre mí
 - Desarrolladora y diseñadora de páginas web.
@@ -17,6 +17,6 @@
 - 📸 [Instagram](https://www.instagram.com/graciimarch/)
 - 📧 [Correo electrónico](mailto:gracianamarch1@gmail.com)
 
--
+---
 
 ⭐ ¡No dudes en conectarte conmigo!
