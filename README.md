@@ -1,6 +1,4 @@
-# ¡Hola, soy Graciana March! 👋
-
-!(https://gtemp0.promeai.com/ai_paint/preview/2023/12/29/24e746e7e38742f7833bd09175fc1d21.png?URLPrefix=aHR0cHM6Ly9ndGVtcDAucHJvbWVhaS5jb20vYWlfcGFpbnQvcHJldmlldy8yMDIzLzEyLzI5LzI0ZTc0NmU3ZTM4NzQyZjc4MzNiZDA5MTc1ZmMxZDIxLnBuZw==&Expires=1704498045&KeyName=cutout-temp&Signature=x9OgLdMCT0NjzvapahMBnu4ZbVg=)
+¡Hola, soy Graciana March! 👋
 
 ## Sobre mí
 - Desarrolladora y diseñadora de páginas web.
