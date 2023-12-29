@@ -10,7 +10,7 @@
 
 ## Habilidades y Tecnologías
 - Lenguajes de programación: HTML, CSS, JavaScript.
-- Herramientas: [Mencionar otras herramientas si lo deseas].
+- Herramientas: Visual Studio Code
 
 ## Contáctame
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gracimarch/)
