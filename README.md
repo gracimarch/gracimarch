@@ -6,7 +6,7 @@
 - Siempre en busca de oportunidades para aprender y crecer en el mundo del desarrollo web.
 
 ## Proyecto Destacado
-- **[Gota a Gota](https://github.com/gracimarch/drop-by-drop)**: Un proyecto en el que estoy trabajando actualmente. ¡No dudes en echarle un vistazo!
+- **[Gota a Gota](https://github.com/gracimarch/drop-by-drop)**: Un proyecto en el que estoy trabajando actualmente.
 
 ## Habilidades y Tecnologías
 - Lenguajes de programación: HTML, CSS, JavaScript.
