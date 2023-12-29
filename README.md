@@ -1,22 +1,22 @@
-# ¡Hola, soy Graciana March! 👋
+# Hi, I'm Graciana March! 👋
 
-## Sobre mí
-- Desarrolladora y diseñadora de páginas web.
-- Experiencia en HTML, CSS y JavaScript.
-- Siempre en busca de oportunidades para aprender y crecer en el mundo del desarrollo web.
+## About me
+- Web developer and designer.
+- Experienced in HTML, CSS and JavaScript.
+- Always looking for opportunities to learn and grow in the world of web development.
 
-## Proyecto Destacado
-- **[Gota a Gota](https://github.com/gracimarch/drop-by-drop)**: Un proyecto en el que estoy trabajando actualmente.
+## Skills
+- Programming languages: HTML, CSS, JavaScript.
+- Tools: Visual Studio Code
 
-## Habilidades y Tecnologías
-- Lenguajes de programación: HTML, CSS, JavaScript.
-- Herramientas: Visual Studio Code
+## Featured Project
+- **[Gota a Gota](https://github.com/gracimarch/drop-by-drop)**: A project on sustainable water management that I am currently working on.
 
-## Contáctame
+## Contact me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gracimarch/)
 - 📸 [Instagram](https://www.instagram.com/graciimarch/)
-- 📧 [Correo electrónico](mailto:gracianamarch1@gmail.com)
+- 📧 [E-mail](mailto:gracianamarch1@gmail.com)
 
 ---
 
-⭐ ¡No dudes en conectarte conmigo!
+⭐ Feel free to connect with me!
