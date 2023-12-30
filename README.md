@@ -1,5 +1,6 @@
 # Hi, I'm Graciana March! 👋
-![Github Banner](https://github.com/gracimarch/gracimarch/assets/136918669/d4a83db6-1062-4d38-a9be-f531e2d36ab2)
+
+<img src="(https://github.com/gracimarch/gracimarch/assets/136918669/d4a83db6-1062-4d38-a9be-f531e2d36ab2)" alt="Github Banner" style="width: 100%; max-width: 100%;">
 
 ## About me
 - Web developer and designer.
