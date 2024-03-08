@@ -3,11 +3,10 @@
 
 ## About me
 - Web developer and designer.
-- Experienced in HTML, CSS and JavaScript.
 - Always looking for opportunities to learn and grow in the world of web development.
 
 ## Skills
-- Programming languages: HTML, CSS, JavaScript.
+- Experienced in HTML, CSS and JavaScript.
 - Tools: Visual Studio Code
 
 ## Featured Project
