@@ -16,5 +16,4 @@
 
 ## Contact me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gracimarch/)
-- 📸 [Instagram](https://www.instagram.com/graciimarch/)
 - 📧 [E-mail](mailto:gracianamarch1@gmail.com)
