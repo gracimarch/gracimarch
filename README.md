@@ -10,7 +10,7 @@
 - Tools: Visual Studio Code
 
 ## Featured Project
-- **[Gota a Gota](https://github.com/gracimarch/gota-a-gota)**: A project on sustainable water management that I am currently working on.
+- **[Gota a Gota](https://github.com/gracimarch/gota-a-gota)**: A project on sustainable water management.
 
 ![Gota a Gota Stats](https://github.com/gracimarch/gracimarch/assets/136918669/4610f062-45d3-4939-a522-935a86dc4bcc)
 
