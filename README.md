@@ -1,7 +1,5 @@
 # Hi there, I'm Graciana 👋
 
-![Github Banner](https://github.com/gracimarch/gracimarch/assets/136918669/7883c1f1-be99-47e3-b59e-c1c85562ae0b)
-
 I'm a **web developer**, always trying to learn new things about programming.
 
 ---
