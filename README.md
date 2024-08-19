@@ -15,6 +15,7 @@ I'm a web developer, always trying to learn new things about programming.
 Transforming water management with cutting-edge technology:
 - **AI-Driven Insights**: Leverages advanced AI to deliver accurate predictive precipitation data.
 - **Sustainable Impact**: Supports water resource management aligned with SDG 6, enhancing water conservation efforts.
+
 ![Gota a Gota Stats](https://github.com/gracimarch/gracimarch/assets/136918669/4610f062-45d3-4939-a522-935a86dc4bcc)
 
 ### [Vitalia](https://github.com/gracimarch/Vitalia)
