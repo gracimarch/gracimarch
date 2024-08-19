@@ -1,4 +1,4 @@
-# Hi there, I'm Graciana 🌷
+# Hi there, I'm Graci 🌷
 
 I'm a **web developer** with a passion for learning and growing in the world of programming. Every day is an opportunity to explore something new!
 
@@ -11,7 +11,7 @@ I'm a **web developer** with a passion for learning and growing in the world of 
 
 ---
 
-## 🍭 Projects
+## 🌻 Projects
 
 ### [Gota a Gota](https://github.com/gracimarch/gota-a-gota)
 Transforming water management with cutting-edge technology:
