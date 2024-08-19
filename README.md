@@ -28,6 +28,9 @@ Revolutionizing personal wellness with AI:
 
 ---
 
-## 🧁 Contact
+## 🧁 Let's connect!
+
+Whether you’re curious about my projects, want to collaborate, or just feel like chatting about all things web development—don’t hesitate to reach out.
+
 - [LinkedIn](https://www.linkedin.com/in/gracimarch/)
 - [E-mail](mailto:gracianamarch1@gmail.com)
