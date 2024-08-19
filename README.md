@@ -1,17 +1,17 @@
-# Hi there, I'm Graciana 👋
+# Hi there, I'm Graciana 🌷
 
 I'm a **web developer**, always trying to learn new things about programming.
 
 ---
 
-## 🛠 Skills & Tools
+## 🍓 Skills & Tools
 - **Languages**: HTML5, CSS3, JavaScript
 - **Learning**: Java
 - **Tools**: MySQL, AutoCAD, Microsoft Excel, Visual Studio Code
 
 ---
 
-## 📚 Projects
+## 🍭 Projects
 
 ### [Gota a Gota](https://github.com/gracimarch/gota-a-gota)
 Transforming water management with cutting-edge technology:
@@ -28,6 +28,6 @@ Revolutionizing personal wellness with AI:
 
 ---
 
-## 📫 Contact
+## 🧁 Contact
 - [LinkedIn](https://www.linkedin.com/in/gracimarch/)
 - [E-mail](mailto:gracianamarch1@gmail.com)
