@@ -11,7 +11,7 @@ I'm a **web developer** with a passion for learning and growing in the world of 
 
 ---
 
-## 🌻 Projects
+## 🌻 My projects
 
 ### [Gota a Gota](https://github.com/gracimarch/gota-a-gota)
 Transforming water management with cutting-edge technology:
