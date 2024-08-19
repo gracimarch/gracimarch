@@ -2,12 +2,16 @@
 
 ![Github Banner](https://github.com/gracimarch/gracimarch/assets/136918669/7883c1f1-be99-47e3-b59e-c1c85562ae0b)
 
-I'm a web developer, always trying to learn new things about programming.
+I'm a **web developer**, always trying to learn new things about programming.
+
+---
 
 ## 🛠 Skills & Tools
-- **Languages**: HTML, CSS, JavaScript
+- **Languages**: HTML5, CSS3, JavaScript
 - **Learning**: Java
-- **Tools**: Visual Studio Code
+- **Tools**: MySQL, AutoCAD, Microsoft Excel, Visual Studio Code
+
+---
 
 ## 📚 Projects
 
@@ -23,6 +27,8 @@ Revolutionizing personal wellness with AI:
 - **Tailored Wellness Plans**: Offers nine unique plans that adapt to your personal fitness, meditation, and dietary needs.
 - **Interactive AI Chatbot**: Provides real-time, personalized recommendations and emotional support.
 - **Premium Content**: Exclusive access to high-quality articles and videos designed to improve mental and physical health.
+
+---
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/gracimarch/)
