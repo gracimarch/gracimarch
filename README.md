@@ -1,13 +1,13 @@
 # Hi there, I'm Graciana 🌷
 
-I'm a **web developer**, always trying to learn new things about programming.
+I'm a **web developer** with a passion for learning and growing in the world of programming. Every day is an opportunity to explore something new!
 
 ---
 
 ## 🍓 Skills & Tools
-- **Languages**: HTML5, CSS3, JavaScript
-- **Learning**: Java
-- **Tools**: MySQL, AutoCAD, Microsoft Excel, Visual Studio Code
+- **Languages**: Crafting beautiful web experiences with HTML5, CSS3, and JavaScript.
+- **Learning**: Expanding my coding toolkit with Java.
+- **Tools**: Navigating data with MySQL, designing with AutoCAD, organizing with Microsoft Excel, and bringing ideas to life with Visual Studio Code.
 
 ---
 
@@ -24,13 +24,12 @@ Transforming water management with cutting-edge technology:
 Revolutionizing personal wellness with AI:
 - **Tailored Wellness Plans**: Offers nine unique plans that adapt to your personal fitness, meditation, and dietary needs.
 - **Interactive AI Chatbot**: Provides real-time, personalized recommendations and emotional support.
-- **Premium Content**: Exclusive access to high-quality articles and videos designed to improve mental and physical health.
 
 ---
 
 ## 🧁 Let's connect!
 
-Whether you’re curious about my projects, want to collaborate, or just feel like chatting about all things web development—don’t hesitate to reach out.
+If you're curious about my projects, eager to collaborate, or just want to chat about web development, I'd love to hear from you!
 
 - [LinkedIn](https://www.linkedin.com/in/gracimarch/)
 - [E-mail](mailto:gracianamarch1@gmail.com)
