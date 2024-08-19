@@ -20,7 +20,7 @@ Transforming water management with cutting-edge technology:
 
 ![Gota a Gota Stats](https://github.com/gracimarch/gracimarch/assets/136918669/4610f062-45d3-4939-a522-935a86dc4bcc)
 
-### [Vitalia](https://github.com/gracimarch/Vitalia)
+### [Vitalia](https://github.com/gracimarch/Vitalia) (currently working on!)
 Revolutionizing personal wellness with AI:
 - **Tailored Wellness Plans**: Offers nine unique plans that adapt to your personal fitness, meditation, and dietary needs.
 - **Interactive AI Chatbot**: Provides real-time, personalized recommendations and emotional support.
