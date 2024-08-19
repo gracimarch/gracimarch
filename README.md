@@ -24,5 +24,5 @@ Revolutionizing personal wellness with AI:
 - **Premium Content**: Exclusive access to high-quality articles and videos designed to improve mental and physical health.
 
 ## 📫 Contact
-- 🌐 [LinkedIn](https://www.linkedin.com/in/gracimarch/)
-- 📧 [E-mail](mailto:gracianamarch1@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/gracimarch/)
+- [E-mail](mailto:gracianamarch1@gmail.com)
