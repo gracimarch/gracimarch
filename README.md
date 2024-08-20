@@ -2,14 +2,16 @@
 
 I'm a **web developer** with a passion for learning and growing in the world of programming. Every day is an **opportunity to explore something new**!
 
+I am currently expanding my knowledge through a **cybersecurity course** offered by Google and **learning Java**. I find that immersing myself in new areas of study keeps me motivated and excited about the future!
+
 ---
 
 **🍓 Skills & Tools**
-- **Languages**: Crafting beautiful web experiences with HTML5, CSS3, and JavaScript.
-- **Learning**: Expanding my coding toolkit with Java.
-- **Tools**: Navigating data with MySQL, designing with AutoCAD, organizing with Microsoft Excel, and bringing ideas to life with Visual Studio Code.
 
----
+With a diverse set of skills and tools at my disposal, I am adept at various aspects of technology and design. Here are some of the core competencies and tools I utilize:
+
+- **HTML5, CSS3, and JavaScript** for websites. 
+- **MySQL** for databases, organizing and analyzing data with **Microsoft Excel**, and developing projects with **Visual Studio Code**.
 
 **🌻 My projects**
 
