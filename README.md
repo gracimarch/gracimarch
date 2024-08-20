@@ -13,6 +13,8 @@ With a diverse set of skills and tools at my disposal, I am adept at various asp
 - **HTML5, CSS3, and JavaScript** for websites. 
 - **MySQL** for databases, organizing and analyzing data with **Microsoft Excel**, and developing projects with **Visual Studio Code**.
 
+---
+
 **🌻 My projects**
 
 **[Gota a Gota](https://github.com/gracimarch/gota-a-gota)** 💧
@@ -23,6 +25,8 @@ Transforming water management with cutting-edge technology:
 - **Check it out here**: [Gota a Gota Website](https://gota-a-gota.vercel.app)
 
 ![Gota a Gota Stats](https://github.com/gracimarch/gracimarch/assets/136918669/4610f062-45d3-4939-a522-935a86dc4bcc)
+
+---
 
 **[Vitalia](https://github.com/gracimarch/Vitalia)** (currently working on!) 🧘🌷
 
