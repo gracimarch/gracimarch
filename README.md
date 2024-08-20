@@ -1,6 +1,6 @@
 # Hi there, I'm Graci 🌷
 
-I'm a **web developer** with a passion for learning and growing in the world of programming. Every day is an opportunity to explore something new!
+I'm a **web developer** with a passion for learning and growing in the world of programming. Every day is an **opportunity to explore something new**!
 
 ---
 
@@ -29,7 +29,7 @@ Revolutionizing personal wellness with AI:
 
 ## 🧁 Let's connect!
 
-If you're curious about my projects, eager to collaborate, or just want to chat about web development, I'd love to hear from you!
+If you're curious about my projects, eager to collaborate, or just want to chat, I'd love to hear from you!
 
 - [LinkedIn](https://www.linkedin.com/in/gracimarch/)
 - [E-mail](mailto:gracianamarch1@gmail.com)
