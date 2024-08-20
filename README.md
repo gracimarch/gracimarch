@@ -14,6 +14,7 @@ I'm a **web developer** with a passion for learning and growing in the world of 
 **🌻 My projects**
 
 **[Gota a Gota](https://github.com/gracimarch/gota-a-gota)** 💧
+
 Transforming water management with cutting-edge technology:
 - **AI-Driven Insights**: Leverages advanced AI to deliver accurate predictive precipitation data.
 - **Sustainable Impact**: Supports water resource management aligned with SDG 6, enhancing water conservation efforts.
@@ -22,6 +23,7 @@ Transforming water management with cutting-edge technology:
 ![Gota a Gota Stats](https://github.com/gracimarch/gracimarch/assets/136918669/4610f062-45d3-4939-a522-935a86dc4bcc)
 
 **[Vitalia](https://github.com/gracimarch/Vitalia)** (currently working on!) 🧘🌷
+
 Revolutionizing personal wellness with AI:
 - **Tailored Wellness Plans**: Offers nine unique plans that adapt to your personal fitness, meditation, and dietary needs.
 - **Interactive AI Chatbot**: Provides real-time, personalized recommendations and emotional support.
