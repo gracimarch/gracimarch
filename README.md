@@ -33,6 +33,9 @@ Revolutionizing personal wellness with AI:
 - **Interactive AI Chatbot**: Provides real-time, personalized recommendations and emotional support.
 - **Check it out here**: [Vitalia Website](https://vitalia-selfcare.vercel.app)
 
+![Vitalia Stats](https://github.com/user-attachments/assets/abf1b61f-a933-4808-b110-b360b5a0b0a6)
+
+
 ---
 
 **🧁 Let's connect!**
