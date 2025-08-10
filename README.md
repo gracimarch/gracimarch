@@ -17,15 +17,6 @@ With a diverse set of skills and tools at my disposal, I am adept at various asp
 
 **🌻 My projects**
 
-**[Gota a Gota](https://github.com/gracimarch/gota-a-gota)** 💧
-
-Transforming water management with cutting-edge technology:
-- **AI-Driven Insights**: Leverages advanced AI to deliver accurate predictive precipitation data.
-- **Sustainable Impact**: Supports water resource management aligned with SDG 6, enhancing water conservation efforts.
-- **Check it out here**: [Gota a Gota Website](https://gota-a-gota.vercel.app)
-
-![Gota a Gota Stats](https://github.com/gracimarch/gracimarch/assets/136918669/4610f062-45d3-4939-a522-935a86dc4bcc)
-
 **[Vitalia](https://github.com/gracimarch/Vitalia)** (currently working on!) 🧘🌷
 
 Revolutionizing personal wellness with AI:
@@ -35,6 +26,14 @@ Revolutionizing personal wellness with AI:
 
 ![Vitalia Stats](https://github.com/user-attachments/assets/abf1b61f-a933-4808-b110-b360b5a0b0a6)
 
+**[Gota a Gota](https://github.com/gracimarch/gota-a-gota)** 💧
+
+Transforming water management with cutting-edge technology:
+- **AI-Driven Insights**: Leverages advanced AI to deliver accurate predictive precipitation data.
+- **Sustainable Impact**: Supports water resource management aligned with SDG 6, enhancing water conservation efforts.
+- **Check it out here**: [Gota a Gota Website](https://gota-a-gota.vercel.app)
+
+![Gota a Gota Stats](https://github.com/gracimarch/gracimarch/assets/136918669/4610f062-45d3-4939-a522-935a86dc4bcc)
 
 ---
 
