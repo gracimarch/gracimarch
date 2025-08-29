@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/191afcfb-c9d6-427a-bd85-5a0b8c2ae159" width="35px" alt="love" /> Hi there, I'm Graci  
+# <img src="https://github.com/user-attachments/assets/191afcfb-c9d6-427a-bd85-5a0b8c2ae159" width="35px" alt="heart" /> Hi there, I'm Graci  
 
 I'm a **Full Stack Developer** with a solid foundation in both front-end and back-end technologies. My journey in tech has also been enriched by my background in **graphic and technical design**, which allows me to combine creativity with problem-solving to build solutions that are not only functional but also visually engaging.  
 
@@ -6,7 +6,7 @@ I’m passionate about creating accessible and user-friendly digital experiences
 
 ---
 
-## <img src="https://github.com/user-attachments/assets/06365df4-7af4-40db-b04f-2f7f6f577b89" width="30px" alt="star" />  Skills & Tools  
+## <img src="https://github.com/user-attachments/assets/06365df4-7af4-40db-b04f-2f7f6f577b89" width="30px" alt="stars" />  Skills & Tools  
 
 These are some of the technologies and tools I use most often in my projects:
 
