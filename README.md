@@ -3,10 +3,11 @@
 I'm a **Full Stack Developer** with a solid foundation in both front-end and back-end technologies. My journey in tech has also been enriched by my background in **graphic and technical design**, which allows me to combine creativity with problem-solving to build solutions that are not only functional but also visually engaging.  
 
 I’m passionate about creating accessible and user-friendly digital experiences, and I see every project as an opportunity to keep learning and growing. For me, technology is not just about code: it’s a way to bring ideas to life and make a positive impact.  
+![descarga (1)]()
 
 ---
 
-## 🌊 Skills & Tools  
+## <img src="https://github.com/user-attachments/assets/06365df4-7af4-40db-b04f-2f7f6f577b89" width="30px" alt="star" /> Skills & Tools  
 
 These are some of the technologies and tools I use most often in my projects:
 
