@@ -8,7 +8,7 @@ I’m passionate about creating accessible and user-friendly digital experiences
 
 ---
 
-## 🍓 Skills & Tools  
+## 🌊 Skills & Tools  
 
 These are some of the technologies and tools I use most often in my projects:
 
@@ -24,7 +24,7 @@ These are some of the technologies and tools I use most often in my projects:
 
 ---
 
-## <img src="https://github.com/user-attachments/assets/0bf3fcc3-73ce-45f7-babc-a0e299141dcd" width="35px" alt="emoji" /> Featured Project  
+## <img src="https://github.com/user-attachments/assets/d6a03bd4-f529-4f03-bf3c-4d87057c0ee3" width="35px" alt="star" /> Featured Project  
 
 ### [🌷 Vitalia](https://github.com/gracimarch/Vitalia) *(in progress)*  
 AI-powered personal wellness platform:  
@@ -36,7 +36,7 @@ AI-powered personal wellness platform:
 
 ---
 
-## 🧁 Let's connect!  
+## ✉ Let's connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-205781?style=for-the-badge&logo=linkedin&logoColor=F6F8D5)](https://www.linkedin.com/in/gracimarch/)  
 [![Gmail](https://img.shields.io/badge/Email-4F959D?style=for-the-badge&logo=gmail&logoColor=F6F8D5)](mailto:gracianamarch1@gmail.com)
