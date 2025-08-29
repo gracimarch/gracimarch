@@ -25,12 +25,11 @@ These are some of the technologies and tools I use most often in my projects:
 ---
 
 ## <img src="https://github.com/user-attachments/assets/7bcd5989-99d3-47c5-90a5-1a2b188382ba" width="30px" alt="star" /> Featured Project
-
-### [💙 Vitalia](https://github.com/gracimarch/Vitalia) *(in progress)*  
+### [<img src="https://github.com/user-attachments/assets/7b6e68cf-72bf-4c53-8075-34d3d4534b17" width="30px" alt="star" /> Vitalia](https://github.com/gracimarch/Vitalia) *(in progress)*  
 AI-powered personal wellness platform:  
 - 🧘 **Tailored Wellness Plans**: fitness, meditation & nutrition.  
 - 🤖 **Interactive AI Chatbot**: real-time personalized recommendations & emotional support.  
-- 🌐 **Come see it in action!** [Visit Vitalia](https://vitalia-selfcare.vercel.app)  
+- 🌐 **Come see it in action!** [Visit Vitalia](https://vitalia-selfcare.vercel.app)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracimarch&repo=Vitalia&layout=compact&theme=radical&bg_color=F6F8D5&title_color=205781&text_color=4F959D)
 
