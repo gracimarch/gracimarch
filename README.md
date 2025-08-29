@@ -42,7 +42,7 @@ If you're curious about my projects, eager to collaborate, or just want to chat,
 [![Gmail](https://img.shields.io/badge/Email-4F959D?style=for-the-badge&logo=gmail&logoColor=F6F8D5)](mailto:gracianamarch1@gmail.com)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=gracimarch&color=4F959D)
-![Trophies](https://github-profile-trophy.vercel.app/?username=gracimarch)
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gracimarch&color=4F959D" alt="Profile Views" />
+</p>
