@@ -43,7 +43,7 @@ If you're curious about my projects, eager to collaborate, or just want to chat,
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=gracimarch&color=4F959D)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracimarch&layout=compact&theme=radical)
-![Graci's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracimarch&show_icons=true&theme=radical)
+![Graci's Activity Graph](https://activity-graph.herokuapp.com/graph?username=gracimarch&theme=react-dark&area=true)
+
 
 
