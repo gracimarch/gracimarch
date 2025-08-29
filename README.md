@@ -32,6 +32,10 @@ AI-powered personal wellness platform:
 
 [![Vitalia Card](https://github-readme-stats.vercel.app/api/pin/?username=gracimarch&repo=Vitalia&theme=radical)](https://github.com/gracimarch/Vitalia)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracimarch&repo=Vitalia&layout=compact&theme=radical)
+
+![Vitalia Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=gracimarch&repo=Vitalia&theme=radical)
+
 ---
 
 ## 🧁 Let's connect!  
