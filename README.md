@@ -6,7 +6,7 @@ I’m passionate about creating accessible and user-friendly digital experiences
 
 ---
 
-## <img src="https://github.com/user-attachments/assets/06365df4-7af4-40db-b04f-2f7f6f577b89" width="30px" alt="star" /> Skills & Tools  
+## <img src="https://github.com/user-attachments/assets/06365df4-7af4-40db-b04f-2f7f6f577b89" width="30px" alt="star" />  Skills & Tools  
 
 These are some of the technologies and tools I use most often in my projects:
 
