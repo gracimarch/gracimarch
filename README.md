@@ -24,7 +24,7 @@ These are some of the technologies and tools I use most often in my projects:
 
 ---
 
-## 🌻 Featured Project  
+## <img src="https://github.com/user-attachments/assets/0bf3fcc3-73ce-45f7-babc-a0e299141dcd" width="35px" alt="emoji" /> Featured Project  
 
 ### [🌷 Vitalia](https://github.com/gracimarch/Vitalia) *(in progress)*  
 AI-powered personal wellness platform:  
