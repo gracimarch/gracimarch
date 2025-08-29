@@ -45,5 +45,6 @@ If you're curious about my projects, eager to collaborate, or just want to chat,
 ![Profile Views](https://komarev.com/ghpvc/?username=gracimarch&color=4F959D)
 ![Graci's Activity Graph](https://activity-graph.herokuapp.com/graph?username=gracimarch&theme=react-dark&area=true)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=gracimarch&theme=radical&margin-w=5)
 
 
