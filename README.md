@@ -17,7 +17,7 @@ These are some of the technologies and tools I use most often in my projects:
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4F959D?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-98D2C0?style=for-the-badge&logo=postgresql&logoColor=205781) |
 | **IDE & Code Editors** | ![VS Code](https://img.shields.io/badge/VS%20Code-F6F8D5?style=for-the-badge&logo=visual-studio-code&logoColor=205781) ![NetBeans](https://img.shields.io/badge/NetBeans-4F959D?style=for-the-badge&logo=apachenetbeanside&logoColor=white) |
 | **Productivity** | ![Excel](https://img.shields.io/badge/Excel-98D2C0?style=for-the-badge&logo=microsoft-excel&logoColor=205781) |
-| **Graphic Design** | ![Illustrator](https://img.shields.io/badge/Illustrator-F6F8D5?style=for-the-badge&logo=adobe-illustrator&logoColor=205781) ![Photoshop](https://img.shields.io/badge/Photoshop-4F959D?style=for-the-badge&logo=adobe-photoshop&logoColor=white) |
+| **Graphic Design** | ![Illustrator](https://img.shields.io/badge/Illustrator-F6F8D5?style=for-the-badge&logo=adobe-illustrator&logoColor=205781) ![Photoshop](https://img.shields.io/badge/Photoshop-4F959D?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-205781?style=for-the-badge&logo=figma&logoColor=F6F8D5) |
 | **Technical Design** | ![AutoCAD](https://img.shields.io/badge/AutoCAD-205781?style=for-the-badge&logo=autodesk&logoColor=F6F8D5) |
 
 ---
