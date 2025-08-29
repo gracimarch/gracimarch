@@ -28,13 +28,9 @@ These are some of the technologies and tools I use most often in my projects:
 AI-powered personal wellness platform:  
 - 🧘 **Tailored Wellness Plans**: fitness, meditation & nutrition.  
 - 🤖 **Interactive AI Chatbot**: real-time personalized recommendations & emotional support.  
-- 🌐 [Live Demo](https://vitalia-selfcare.vercel.app)  
-
-[![Vitalia Card](https://github-readme-stats.vercel.app/api/pin/?username=gracimarch&repo=Vitalia&theme=radical)](https://github.com/gracimarch/Vitalia)
+- 🌐 [Try it here!](https://vitalia-selfcare.vercel.app)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracimarch&repo=Vitalia&layout=compact&theme=radical)
-
-![Vitalia Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=gracimarch&repo=Vitalia&theme=radical)
 
 ---
 
