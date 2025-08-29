@@ -24,9 +24,9 @@ These are some of the technologies and tools I use most often in my projects:
 
 ---
 
-## <img src="https://github.com/user-attachments/assets/d6a03bd4-f529-4f03-bf3c-4d87057c0ee3" width="35px" alt="star" /> Featured Project  
+## <img src="https://github.com/user-attachments/assets/d6a03bd4-f529-4f03-bf3c-4d87057c0ee3" width="30px" alt="star" /> Featured Project  
 
-### [🌷 Vitalia](https://github.com/gracimarch/Vitalia) *(in progress)*  
+### [💙 Vitalia](https://github.com/gracimarch/Vitalia) *(in progress)*  
 AI-powered personal wellness platform:  
 - 🧘 **Tailored Wellness Plans**: fitness, meditation & nutrition.  
 - 🤖 **Interactive AI Chatbot**: real-time personalized recommendations & emotional support.  
