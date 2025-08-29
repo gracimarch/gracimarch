@@ -1,45 +1,46 @@
-# Hi there, I'm Graci 🌷
+# 🌸 Hi there, I'm Graci  
 
-I'm a **web developer** with a passion for learning and growing in the world of programming. Every day is an **opportunity to explore something new**!
+I'm a **Full Stack Developer** with a solid foundation in both front-end and back-end technologies. My journey in tech has also been enriched by my background in **graphic and technical design**, which allows me to combine creativity with problem-solving to build solutions that are not only functional but also visually engaging.  
 
-I am currently expanding my knowledge through a **cybersecurity course** offered by Google and **learning Java**. I find that immersing myself in new areas of study keeps me motivated and excited about the future!
-
----
-
-**🍓 Skills & Tools**
-
-With a diverse set of skills and tools at my disposal, I am adept at various aspects of technology and design. Here are some of the core competencies and tools I utilize:
-
-- **HTML5, CSS3, and JavaScript** for websites. 
-- **MySQL** for databases, organizing and analyzing data with **Microsoft Excel**, and developing projects with **Visual Studio Code**.
+I’m passionate about creating accessible and user-friendly digital experiences, and I see every project as an opportunity to keep learning and growing. For me, technology is not just about code — it’s a way to bring ideas to life and make a positive impact.  
 
 ---
 
-**🌻 My projects**
+## 🍓 Skills & Tools  
 
-**[Vitalia](https://github.com/gracimarch/Vitalia)** (currently working on!) 🧘🌷
-
-Revolutionizing personal wellness with AI:
-- **Tailored Wellness Plans**: Offers nine unique plans that adapt to your personal fitness, meditation, and dietary needs.
-- **Interactive AI Chatbot**: Provides real-time, personalized recommendations and emotional support.
-- **Check it out here**: [Vitalia Website](https://vitalia-selfcare.vercel.app)
-
-![Vitalia Stats](https://github.com/user-attachments/assets/abf1b61f-a933-4808-b110-b360b5a0b0a6)
-
-**[Gota a Gota](https://github.com/gracimarch/gota-a-gota)** 💧
-
-Transforming water management with cutting-edge technology:
-- **AI-Driven Insights**: Leverages advanced AI to deliver accurate predictive precipitation data.
-- **Sustainable Impact**: Supports water resource management aligned with SDG 6, enhancing water conservation efforts.
-- **Check it out here**: [Gota a Gota Website](https://gota-a-gota.vercel.app)
-
-![Gota a Gota Stats](https://github.com/gracimarch/gracimarch/assets/136918669/4610f062-45d3-4939-a522-935a86dc4bcc)
+| 🍂 Category         | 🍵 Tools |
+|---------------------|----------|
+| **Languages**       | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| **Web Dev**         | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Databases**       | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **IDE / Code**      | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white) |
+| **Productivity**    | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **Graphic Design**  | ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) |
+| **Technical Design**| ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white) |
 
 ---
 
-**🧁 Let's connect!**
+## 🌻 Featured Project  
 
-If you're curious about my projects, eager to collaborate, or just want to chat, I'd love to hear from you!
+### [🌷 Vitalia](https://github.com/gracimarch/Vitalia) *(in progress)*  
+AI-powered personal wellness platform:  
+- 🧘 **Tailored Wellness Plans**: fitness, meditation & nutrition.  
+- 🤖 **Interactive AI Chatbot**: real-time personalized recommendations & emotional support.  
+- 🌐 [Live Demo](https://vitalia-selfcare.vercel.app)  
 
-- [LinkedIn](https://www.linkedin.com/in/gracimarch/)
-- [E-mail](mailto:gracianamarch1@gmail.com)
+[![Vitalia Card](https://github-readme-stats.vercel.app/api/pin/?username=gracimarch&repo=Vitalia&theme=radical)](https://github.com/gracimarch/Vitalia)
+
+---
+
+## 📊 GitHub Stats  
+
+![Graci's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracimarch&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracimarch&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=gracimarch&theme=radical)  
+
+---
+
+## 🧁 Let's connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracimarch/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gracianamarch1@gmail.com)
