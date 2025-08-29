@@ -44,6 +44,7 @@ If you're curious about my projects, eager to collaborate, or just want to chat,
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gracimarch&color=4F959D" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gracimarch&color=4F959D" alt="Profile Views" /><br><br>
   Thanks for visiting! Let’s build, learn, and grow together.
 </p>
+
