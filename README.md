@@ -43,7 +43,7 @@ If you're curious about my projects, eager to collaborate, or just want to chat,
 
 ---
 
-<p align="center">
+<p align="center" padding-bottom=-20px>
   <img src="https://komarev.com/ghpvc/?username=gracimarch&color=4F959D" alt="Profile Views" />
 </p>
 <p align="center">
