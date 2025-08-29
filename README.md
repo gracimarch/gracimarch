@@ -4,8 +4,6 @@ I'm a **Full Stack Developer** with a solid foundation in both front-end and bac
 
 I’m passionate about creating accessible and user-friendly digital experiences, and I see every project as an opportunity to keep learning and growing. For me, technology is not just about code: it’s a way to bring ideas to life and make a positive impact.  
 
-
-
 ---
 
 ## 🌊 Skills & Tools  
@@ -25,8 +23,9 @@ These are some of the technologies and tools I use most often in my projects:
 ---
 
 ## <img src="https://github.com/user-attachments/assets/7bcd5989-99d3-47c5-90a5-1a2b188382ba" width="30px" alt="star" /> Featured Project
-### [💙 Vitalia](https://github.com/gracimarch/Vitalia) *(in progress)*  
-AI-powered personal wellness platform:  
+### [<img src="https://github.com/user-attachments/assets/8393ad0f-e70f-4aa5-90e1-5ae7ba266ca7" width="20px" alt="star" /> Vitalia](https://github.com/gracimarch/Vitalia) *(currently working on!)*  
+AI-powered personal wellness platform:
+
 - 🧘 **Tailored Wellness Plans**: Offers nine unique plans that adapt to your personal fitness, meditation, and dietary needs.
 - 🤖 **Interactive AI Chatbot**: Provides real-time, personalized recommendations and emotional support.
 - 🌐 [**Check it out here!**](https://vitalia-selfcare.vercel.app)
