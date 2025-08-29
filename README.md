@@ -29,7 +29,7 @@ These are some of the technologies and tools I use most often in my projects:
 AI-powered personal wellness platform:  
 - 🧘 **Tailored Wellness Plans**: Offers nine unique plans that adapt to your personal fitness, meditation, and dietary needs.
 - 🤖 **Interactive AI Chatbot**: Provides real-time, personalized recommendations and emotional support.
-- 🌐 **Check it out here!** [Visit Vitalia](https://vitalia-selfcare.vercel.app)
+- 🌐 [**Check it out here!**](https://vitalia-selfcare.vercel.app)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracimarch&repo=Vitalia&layout=compact&theme=radical&bg_color=F6F8D5&title_color=205781&text_color=4F959D)
 
