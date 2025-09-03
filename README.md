@@ -13,10 +13,10 @@ These are some of the technologies and tools I use most often in my projects:
 | Category         | Tools |
 |-----------------|-------|
 | **Programming Languages** | ![Java](https://img.shields.io/badge/Java-205781?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-4F959D?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-98D2C0?style=flat&logo=c&logoColor=205781) |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-F6F8D5?style=flat&logo=html5&logoColor=205781) ![CSS3](https://img.shields.io/badge/CSS-4F959D?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-98D2C0?style=flat&logo=bootstrap&logoColor=205781) ![JavaScript](https://img.shields.io/badge/JavaScript-205781?style=flat&logo=javascript&logoColor=F6F8D5) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-F6F8D5?style=flat&logo=html5&logoColor=205781) ![CSS](https://img.shields.io/badge/CSS-4F959D?style=flat&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-98D2C0?style=flat&logo=bootstrap&logoColor=205781) ![JavaScript](https://img.shields.io/badge/JavaScript-205781?style=flat&logo=javascript&logoColor=F6F8D5) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4F959D?style=flat&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-98D2C0?style=flat&logo=postgresql&logoColor=205781) |
 | **IDE & Code Editors** | ![VS Code](https://img.shields.io/badge/VS%20Code-F6F8D5?style=flat&logo=visual-studio-code&logoColor=205781) ![NetBeans](https://img.shields.io/badge/NetBeans-4F959D?style=flat&logo=apachenetbeanside&logoColor=white) |
-| **Productivity** | ![Excel](https://img.shields.io/badge/Excel-98D2C0?style=flat&logo=microsoft-excel&logoColor=205781) ![Notion](https://img.shields.io/badge/Notion-205781?style=flat&logo=notion&logoColor=F6F8D5) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-F6F8D5?style=flat&logo=microsoft-teams&logoColor=205781) |
+| **Productivity** | ![Excel](https://img.shields.io/badge/Excel-98D2C0?style=flat&logo=googlesheets&logoColor=205781) ![Notion](https://img.shields.io/badge/Notion-205781?style=flat&logo=notion&logoColor=F6F8D5) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-F6F8D5?style=flat&logo=microsoft-teams&logoColor=205781) |
 | **Graphic Design** | ![Illustrator](https://img.shields.io/badge/Illustrator-F6F8D5?style=flat&logo=adobe-illustrator&logoColor=205781) ![Photoshop](https://img.shields.io/badge/Photoshop-4F959D?style=flat&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-205781?style=flat&logo=figma&logoColor=F6F8D5) |
 | **Technical Design** | ![AutoCAD](https://img.shields.io/badge/AutoCAD-205781?style=flat&logo=autodesk&logoColor=F6F8D5) |
 
@@ -39,7 +39,7 @@ AI-powered personal wellness platform:
 If you're curious about my projects, eager to collaborate, or just want to chat, I'd love to hear from you!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-205781?style=flat&logo=linkedin&logoColor=F6F8D5)](https://www.linkedin.com/in/gracimarch/)  
-[![Gmail](https://img.shields.io/badge/Email-4F959D?style=flat&logo=gmail&logoColor=F6F8D5)](mailto:gracianamarch1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-4F959D?style=flat&logo=maildotru&logoColor=F6F8D5)](mailto:gracianamarch1@gmail.com)
 
 ---
 
