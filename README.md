@@ -38,9 +38,6 @@ AI-powered personal wellness platform:
 
 If you're curious about my projects, eager to collaborate, or just want to chat, I'd love to hear from you!
 
-LinkedIn: [linkedin.com/in/gracimarch/](https://www.linkedin.com/in/gracimarch/)
-Email: [gracianamarch1@gmail.com](mailto:gracianamarch1@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-205781?style=flat&logo=linkedin&logoColor=F6F8D5)](https://www.linkedin.com/in/gracimarch/)  
 [![Gmail](https://img.shields.io/badge/Email-4F959D?style=flat&logo=gmail&logoColor=F6F8D5)](mailto:gracianamarch1@gmail.com)
 
