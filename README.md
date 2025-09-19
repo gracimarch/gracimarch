@@ -12,7 +12,7 @@ These are some of the technologies and tools I use most often in my projects:
 
 | Category         | Tools |
 |-----------------|-------|
-| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-205781?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-4F959D?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-98D2C0?style=flat&logo=c&logoColor=205781) |
+| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-205781?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-4F959D?style=flat&logo=python&logoColor=white) |
 | **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-F6F8D5?style=flat&logo=html5&logoColor=205781) ![CSS](https://img.shields.io/badge/CSS-4F959D?style=flat&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-98D2C0?style=flat&logo=bootstrap&logoColor=205781) ![JavaScript](https://img.shields.io/badge/JavaScript-205781?style=flat&logo=javascript&logoColor=F6F8D5) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4F959D?style=flat&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-98D2C0?style=flat&logo=postgresql&logoColor=205781) |
 | **IDE & Code Editors** | ![VS Code](https://img.shields.io/badge/VS%20Code-F6F8D5?style=flat&logo=visual-studio-code&logoColor=205781) ![NetBeans](https://img.shields.io/badge/NetBeans-4F959D?style=flat&logo=apachenetbeanside&logoColor=white) |
