@@ -15,7 +15,7 @@ These are some of the technologies and tools I use most often in my projects:
 | **Programming Languages** | ![Java](https://img.shields.io/badge/Java-205781?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-4F959D?style=flat&logo=python&logoColor=white) |
 | **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-F6F8D5?style=flat&logo=html5&logoColor=205781) ![CSS](https://img.shields.io/badge/CSS-4F959D?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-205781?style=flat&logo=javascript&logoColor=F6F8D5) |
 | **Databases** | ![SQL](https://img.shields.io/badge/SQL-98D2C0?style=flat&logo=postgresql&logoColor=205781) |
-| **IDE & Code Editors** | ![VS Code](https://img.shields.io/badge/VS%20Code-F6F8D5?style=flat&logo=visual-studio-code&logoColor=205781) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-4F959D?style=flat&logo=intellijidea&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-205781?style=flat&logo=code&logoColor=F6F8D5) |
+| **IDE & Code Editors** | ![VS Code](https://img.shields.io/badge/VS%20Code-F6F8D5?style=flat&logo=visual-studio-code&logoColor=205781) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-4F959D?style=flat&logo=intellijidea&logoColor=white) |
 | **Graphic Design** | ![Illustrator](https://img.shields.io/badge/Illustrator-F6F8D5?style=flat&logo=adobe-illustrator&logoColor=205781) ![Photoshop](https://img.shields.io/badge/Photoshop-4F959D?style=flat&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-205781?style=flat&logo=figma&logoColor=F6F8D5) |
 
 ---
