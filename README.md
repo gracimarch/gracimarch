@@ -15,10 +15,8 @@ These are some of the technologies and tools I use most often in my projects:
 | **Programming Languages** | ![Java](https://img.shields.io/badge/Java-205781?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-4F959D?style=flat&logo=python&logoColor=white) |
 | **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-F6F8D5?style=flat&logo=html5&logoColor=205781) ![CSS](https://img.shields.io/badge/CSS-4F959D?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-205781?style=flat&logo=javascript&logoColor=F6F8D5) |
 | **Databases** | ![SQL](https://img.shields.io/badge/SQL-98D2C0?style=flat&logo=postgresql&logoColor=205781) |
-| **IDE & Code Editors** | ![VS Code](https://img.shields.io/badge/VS%20Code-F6F8D5?style=flat&logo=visual-studio-code&logoColor=205781) ![NetBeans](https://img.shields.io/badge/IntelliJ%20IDEA-4F959D?style=flat&logo=intellijidea&logoColor=white) |
-| **Productivity** | ![Excel](https://img.shields.io/badge/Excel-98D2C0?style=flat&logo=googlesheets&logoColor=205781) ![Notion](https://img.shields.io/badge/Notion-205781?style=flat&logo=notion&logoColor=F6F8D5) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-F6F8D5?style=flat&logo=microsoft-teams&logoColor=205781) |
+| **IDE & Code Editors** | ![VS Code](https://img.shields.io/badge/VS%20Code-F6F8D5?style=flat&logo=visual-studio-code&logoColor=205781) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-4F959D?style=flat&logo=intellijidea&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-205781?style=flat&logo=code&logoColor=F6F8D5) |
 | **Graphic Design** | ![Illustrator](https://img.shields.io/badge/Illustrator-F6F8D5?style=flat&logo=adobe-illustrator&logoColor=205781) ![Photoshop](https://img.shields.io/badge/Photoshop-4F959D?style=flat&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-205781?style=flat&logo=figma&logoColor=F6F8D5) |
-| **Technical Design** | ![AutoCAD](https://img.shields.io/badge/AutoCAD-205781?style=flat&logo=autodesk&logoColor=F6F8D5) |
 
 ---
 
@@ -29,6 +27,15 @@ AI-powered personal wellness platform:
 - 🧘 **Tailored Wellness Plans**: Offers nine unique plans that adapt to your personal fitness, meditation, and dietary needs.
 - 🤖 **Interactive AI Chatbot**: Provides real-time, personalized recommendations and emotional support.
 - 🌐 [**Check it out here!**](https://vitalia-selfcare.vercel.app)
+
+### 🖋️ [Posdata Studio](https://github.com/jossmarsala/posdata-studio)  
+Creative web design & development studio — landing page project:
+
+- 💻 **Web Design & Development**: Showcases services, portfolio, and studio identity.
+- 📬 **Contact-focused Landing Page**: Built to connect with clients and highlight real projects.
+> A digital space where design, storytelling, and technology meet.
+
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracimarch&repo=Vitalia&layout=compact&theme=radical&bg_color=F6F8D5&title_color=205781&text_color=4F959D)
 
