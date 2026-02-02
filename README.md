@@ -37,7 +37,7 @@ Creative web design & development studio — landing page project:
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracimarch&layout=compact&theme=radical&bg_color=F6F8D5&title_color=205781&text_color=4F959D)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracimarch&layout=compact&langs_count=8&theme=radical&bg_color=F6F8D5&title_color=205781&text_color=4F959D)
 
 ---
 
