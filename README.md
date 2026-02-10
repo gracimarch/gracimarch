@@ -37,7 +37,7 @@ Creative web design & development studio — landing page project:
 
 ---
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gracimarch&layout=compact)
+[![Mis lenguajes](https://github-readme-stats.vercel.app)](https://github.com/gracimarch/github-readme-stats)
 
 ---
 
