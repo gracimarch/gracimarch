@@ -33,11 +33,6 @@ Creative web design & development studio — landing page project:
 
 - 💻 **Web Design & Development**: Showcases services, portfolio, and studio identity.
 - 📬 **Contact-focused Landing Page**: Built to connect with clients and highlight real projects.
-> A digital space where design, storytelling, and technology meet.
-
----
-
-[![Mis lenguajes](https://github-readme-stats.vercel.app)](https://github.com/gracimarch/github-readme-stats)
 
 ---
 
@@ -47,10 +42,3 @@ If you're curious about my projects, eager to collaborate, or just want to chat,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-205781?style=flat&logo=linkedin&logoColor=F6F8D5)](https://www.linkedin.com/in/gracimarch/)  
 [![Email](https://img.shields.io/badge/Email-4F959D?style=flat&logo=maildotru&logoColor=F6F8D5)](mailto:gracianamarch1@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gracimarch&color=205781" alt="Profile Views" /><br>
-  Thanks for visiting! Let’s build, learn, and grow together.
-</p>
