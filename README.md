@@ -19,7 +19,7 @@ These are some of the technologies and tools I use most often in my projects:
 |-----------------|-------|
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-faf7f0?style=flat&logo=html5&logoColor=205781) ![CSS](https://img.shields.io/badge/CSS-4F959D?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-205781?style=flat&logo=javascript&logoColor=faf7f0) |
 | **Backend** | ![Java](https://img.shields.io/badge/Java-205781?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-4F959D?style=flat&logo=python&logoColor=white) |
-| **Database** | ![SQL](https://img.shields.io/badge/SQL-4F959D?style=flat&logo=postgresql&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4F959D?style=flat&logo=mysql&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-205781?style=flat&logo=firebase&logoColor=faf7f0) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-205781?style=flat&logo=git&logoColor=faf7f0) |
 | **Design** | ![Illustrator](https://img.shields.io/badge/Illustrator-faf7f0?style=flat&logo=adobe-illustrator&logoColor=205781) ![Figma](https://img.shields.io/badge/Figma-205781?style=flat&logo=figma&logoColor=faf7f0) |
 
