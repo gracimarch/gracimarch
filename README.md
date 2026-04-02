@@ -33,6 +33,7 @@ Creative web design & development studio — landing page project:
 
 - 💻 **Web Design & Development**: Showcases services, portfolio, and studio identity.
 - 📬 **Contact-focused Landing Page**: Built to connect with clients and highlight real projects.
+- 🌐 [**Check it out here!**](https://posdatastudio.vercel.app)
 
 ---
 
