@@ -1,8 +1,13 @@
 # <img src="https://github.com/user-attachments/assets/191afcfb-c9d6-427a-bd85-5a0b8c2ae159" width="35px" alt="heart" /> Hi there, I'm Graci  
 
-I'm a **Full Stack Developer**, comfortable working on both the front-end and back-end. My background in **graphic and technical design** also gives me a unique edge, allowing me to blend creativity with problem-solving. I love building products that don't just work well, but also look and feel great.
+I’m a Full Stack Developer who enjoys bringing ideas to life, from how they work to how they feel.
 
-I’m passionate about creating digital tools that are accessible and easy for everyone to use. I see every project as a new opportunity to learn and grow.
+With a background in both development and design, I love creating experiences that are not only functional, but also intuitive and visually meaningful.
+
+I’m especially passionate about building digital tools that are accessible and easy to use, because I believe technology should support people, not complicate things.
+
+For me, every project is more than just code. It’s a chance to learn, grow, and create something that truly helps others.
+
 
 ---
 
@@ -12,21 +17,21 @@ These are some of the technologies and tools I use most often in my projects:
 
 | Category         | Tools |
 |-----------------|-------|
-| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-205781?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-4F959D?style=flat&logo=python&logoColor=white) |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-F6F8D5?style=flat&logo=html5&logoColor=205781) ![CSS](https://img.shields.io/badge/CSS-4F959D?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-205781?style=flat&logo=javascript&logoColor=F6F8D5) |
-| **Databases** | ![SQL](https://img.shields.io/badge/SQL-98D2C0?style=flat&logo=postgresql&logoColor=205781) |
-| **IDE & Code Editors** | ![VS Code](https://img.shields.io/badge/VS%20Code-F6F8D5?style=flat&logo=visual-studio-code&logoColor=205781) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-4F959D?style=flat&logo=intellijidea&logoColor=white) |
-| **Graphic Design** | ![Illustrator](https://img.shields.io/badge/Illustrator-F6F8D5?style=flat&logo=adobe-illustrator&logoColor=205781) ![Photoshop](https://img.shields.io/badge/Photoshop-4F959D?style=flat&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-205781?style=flat&logo=figma&logoColor=F6F8D5) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-faf7f0?style=flat&logo=html5&logoColor=205781) ![CSS](https://img.shields.io/badge/CSS-4F959D?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-205781?style=flat&logo=javascript&logoColor=faf7f0) |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-205781?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-4F959D?style=flat&logo=python&logoColor=white) |
+| **Database** | ![SQL](https://img.shields.io/badge/SQL-4F959D?style=flat&logo=postgresql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-205781?style=flat&logo=git&logoColor=faf7f0) |
+| **Design** | ![Illustrator](https://img.shields.io/badge/Illustrator-faf7f0?style=flat&logo=adobe-illustrator&logoColor=205781) ![Figma](https://img.shields.io/badge/Figma-205781?style=flat&logo=figma&logoColor=faf7f0) |
 
 ---
 
 ## <img src="https://github.com/user-attachments/assets/7bcd5989-99d3-47c5-90a5-1a2b188382ba" width="30px" alt="butterflies" /> Featured Project
-### [💙 Vitalia](https://github.com/gracimarch/Vitalia)  
+### 💙 [Vitalia](https://github.com/gracimarch/Vitalia)  
 AI-powered personal wellness platform:
 
 - 🧘 **Tailored Wellness Plans**: Offers nine unique plans that adapt to your personal fitness, meditation, and dietary needs.
 - 🤖 **Interactive AI Chatbot**: Provides real-time, personalized recommendations and emotional support.
-- 🌐 [**Check it out here!**](https://vitalia-selfcare.vercel.app)
+- 🌐 [**Start your journey!**](https://vitalia-selfcare.vercel.app)
 
 ### 🖋️ [Posdata Studio](https://github.com/jossmarsala/posdata-studio)  
 Creative web design & development studio — landing page project:
@@ -37,9 +42,9 @@ Creative web design & development studio — landing page project:
 
 ---
 
-## ✉ Let's connect!  
+## 💌 Let's connect
 
-If you're curious about my projects, eager to collaborate, or just want to chat, I'd love to hear from you!
+I'm always open to new ideas, collaborations or just a nice chat ☕
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-205781?style=flat&logo=linkedin&logoColor=F6F8D5)](https://www.linkedin.com/in/gracimarch/)  
-[![Email](https://img.shields.io/badge/Email-4F959D?style=flat&logo=maildotru&logoColor=F6F8D5)](mailto:gracianamarch1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-205781?style=flat&logo=linkedin&logoColor=faf7f0)](https://www.linkedin.com/in/gracimarch/)
+[![Email](https://img.shields.io/badge/Email-faf7f0?style=flat&logo=gmail&logoColor=205781)](mailto:gracianamarch1@gmail.com)
